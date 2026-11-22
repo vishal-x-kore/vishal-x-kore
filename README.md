@@ -80,9 +80,8 @@ Here are some ideas to get you started:
 ## Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-vishal.kore.2208%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishal.kore.2208@gmail.com)
-<!-- Add your LinkedIn here once your profile is ready:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
--->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-kore)
 
 ---
 
